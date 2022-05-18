@@ -1,0 +1,21 @@
+.box{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+}
+
+.box.two{
+    background-color: red;
+}
+
+.box.three{
+    background-color: blue;
+}
+
+.box.four{
+    background-color: gold;
+}
+
+[v-cloak] {
+    display: none;
+}
